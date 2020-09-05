@@ -1,0 +1,31 @@
+<resources>
+    <!-- application name -->
+    <string name="app_name">Homework#2</string>
+
+    <!-- textview -->>
+    <string name="countdown">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="subheader1">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="subheader2">ELECTION COMMISSION OF THAILAND</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minutes">นาที</string>
+    <string name="seconds">วินาที</string>
+    <string name="dayV">365</string>
+    <string name="hourV">24</string>
+    <string name="minuteV">60</string>
+    <string name="secondV">60</string>
+
+    <!-- imageview description -->
+    <string name="logodescription">รูปโลโก้</string>
+    <string name="dayloading">รูปภาพโหลด1</string>
+    <string name="hourloading">รูปภาพโหลด2</string>
+    <string name="minuteloading">รูปภาพโหลด3</string>
+    <string name="secondloading">รูปภาพโหลด4</string>
+
+    <!-- string in button -->
+    <string name="next">ถัดไป</string>
+    <string name="check">ตรวจสอบสิทธิเลือกตั้ง</string>
+
+    <!-- hint -->
+    <string name="hint">กรอกเลขบัตรประชาชน</string>
+</resources>
